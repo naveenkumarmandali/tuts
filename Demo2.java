@@ -3,7 +3,6 @@ class Demo2{
 		int a=10;
 		int b=20;
 		System.out.println("commiting Demo2.java modified="+"a+b="+ a+b);
-
 		System.out.println("Demo2 creating");
 
 	}
